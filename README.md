@@ -1,21 +1,19 @@
-# Week-1-challenge: Code Refactor
-
+# Week-1-challenge Code Refactor
 ## Description:
-The task was to refactor the webpage for Horiseon and to make it more accessible by doing the following:
-- Make sure that all links are functioning properly
-- Debug the index.html  
-- Add alt tags to make it easier for someone using a screen reader to understand whats happening on a page
-- Add semantic elements to the html
+The task was to refactor the existing webpage for Horiseon and to make it more accessible by accomplishing the following:
+- Make sure that all links are functioning correctly.
+- Clean up the CSS to make it more efficient by consolidating CSS selectors and properties and organizing them to follow the semantic structure of the HTML elements.
 - Including comments before each element or section of the page.
-
 
 ## User story
 
 ```
+
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 ```
+
 
 ## Acceptance criteria
 
